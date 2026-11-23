@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ismailgunaydn.github.io/theselfcareproducts/sitemap.xml
